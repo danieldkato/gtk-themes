@@ -4,7 +4,7 @@ This repository contains code for various custom gtk-3.0 themes for GNU/Linux Ub
 
 ~/.themes/
 
-To install a theme for all users, clone the theme to: 
+To install a theme for all users, clone the corresponding directory to: 
 
 /usr/share/themes/
 
